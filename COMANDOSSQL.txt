@@ -1,0 +1,26 @@
+DROP TABLE animatronicos
+
+CREATE TABLE animatronicos (
+id INT IDENTITY(1,1) PRIMARY KEY,
+nombre VARCHAR(50) not null,
+activo BIT not null,
+cantidadUsos int not null
+)
+
+INSERT INTO animatronicos (nombre,activo,cantidadUsos) VALUES ('uru','1','23')
+
+SELECT * FROM animatronicos
+
+DELETE FROM animatronicos;
+DBCC CHECKIDENT('animatronicos', RESEED, 0);
+
+CREATE TABLE fiestas(
+id INT IDENTITY(1,1) PRIMARY KEY,
+lugar VARCHAR(100) not null,
+precio INT not null,
+activo BIT not null,
+nombreCliente VARCHAR(50) not null,
+telefonoCliente VARCHAR(50) not null,
+correoCliente VARCHAR(50) not null,
+fecha DATE not null
+

@@ -1,0 +1,12 @@
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\BACK.csproj.AssemblyReference.cache
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\BACK.GeneratedMSBuildEditorConfig.editorconfig
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\BACK.AssemblyInfoInputs.cache
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\BACK.AssemblyInfo.cs
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\BACK.csproj.CoreCompileInputs.cache
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\bin\Debug\net6.0\BACK.deps.json
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\bin\Debug\net6.0\BACK.dll
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\bin\Debug\net6.0\BACK.pdb
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\BACK.dll
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\refint\BACK.dll
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\BACK.pdb
+D:\UTN\CUATRIDOS\PROGRALABO\INTEGRADOR2\Entidades\obj\Debug\net6.0\ref\BACK.dll

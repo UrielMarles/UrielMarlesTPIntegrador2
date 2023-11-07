@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "RENT-A-TRONIC/1.0.0": {
+        "runtime": {
+          "RENT-A-TRONIC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RENT-A-TRONIC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
